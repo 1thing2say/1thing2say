@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 
 
 <!--
 **1thing2say/1thing2say** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
